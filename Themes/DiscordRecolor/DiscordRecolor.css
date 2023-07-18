@@ -4,7 +4,7 @@
 :root {
 	--font:							"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	
-	--mentioncolor: 				250,166,26;
+	--mentioncolor: 				255,149,0;
 	--successcolor: 				59,165,92;
 	--warningcolor: 				250,166,26;
 	--dangercolor: 					237,66,69;
@@ -16,11 +16,11 @@
 	--textdarker: 					114,118,125;
 	--textdarkest: 					79,84,92;
 	
-	--backgroundaccent: 			64,68,75;
+	--backgroundaccent: 			255,149,0;
 	--backgroundprimary: 			54,57,63;
-	--backgroundsecondary: 			47,49,54;
+	--backgroundsecondary: 			255,149,0;
 	--backgroundsecondaryalt: 		41,43,47;
-	--backgroundtertiary: 			32,34,37;
+	--backgroundtertiary: 			255,149,0;
 	--backgroundfloating: 			24,25,28;
 }
 
